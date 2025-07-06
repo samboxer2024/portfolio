@@ -44,5 +44,13 @@
   "main": "eslint.config.js",
   "author": "ankit",
   "license": "ISC",
-  "keywords": []
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samboxer2024/PORTFOLIO.git"
+  },
+  "bugs": {
+    "url": "https://github.com/samboxer2024/PORTFOLIO/issues"
+  },
+  "homepage": "https://github.com/samboxer2024/PORTFOLIO#readme"
 }
